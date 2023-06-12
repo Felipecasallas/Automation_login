@@ -58,6 +58,11 @@ namespace SeleniumLearning
             //validate url of the ink text
 
         }
+        [Test]
+        public void LocatorsIdentification4() 
+        {
+
+        }
     }
     
 }
